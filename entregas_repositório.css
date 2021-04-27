@@ -1,0 +1,18 @@
+body{
+	font-family: Helvetica;
+	padding: 50px
+}
+
+table {
+  width: 100%;
+}
+
+tr {
+	background-color: #E6E6FA;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
